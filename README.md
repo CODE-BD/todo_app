@@ -210,3 +210,4 @@ Conclusion
 These steps cover creating a basic Flask-based ToDo application with MySQL as the database, setting up Docker and Docker Compose, and deploying it in VSCode. With this structure, you can continue to develop the app, add features, and refine the Docker configuration as needed.
 
 # todo_app
+# todo_app
